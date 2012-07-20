@@ -8,6 +8,7 @@ public class User {
 	private String country;
 	private String aboutYou;
 	private String simple="";
+	private String simple1="";
 	
 	private String[] community;
 	
