@@ -7,11 +7,15 @@ public class User {
 	private String gender;
 	private String country;
 	private String aboutYou;
+<<<<<<< HEAD
 	private String simple="";
 	private String simple1="";
 	
 	private String[] community;
 	
+=======
+	private String[] community;
+>>>>>>> master
 	private Boolean mailingList;
 	
 	public String getName() {
